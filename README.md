@@ -15,3 +15,5 @@ https://github.com/JKAIR001/jkair.github.io/tree/main/IPTV/logo
 
 |Icon|Channel|Site|
 |:----|:---:|:---:|
+|<img src="https://iptv-pro.github.io/logo/3D%E9%9B%BB%E5%BD%B1.png" width="100" height="50">|3D電影|https://iptv-pro.github.io/logo/3D%E9%9B%BB%E5%BD%B1.png|
+|<img src="https://iptv-pro.github.io/logo/4K.png" width="100" height="50">|4K|https://iptv-pro.github.io/logo/4K.png|
