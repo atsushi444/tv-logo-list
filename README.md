@@ -37,7 +37,7 @@ https://github.com/wanglindl/TVlogo/tree/main/img
 ### TAIWAN
 【[台湾地区](./md/40.md)】
 
-### HONGKONG&
+### HONGKONG&MACAO
 【[港澳地区](./md/41.md)】
 
 ### JAPAN
