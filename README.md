@@ -1,5 +1,5 @@
 ## TV logo list
-
+> 所有资源来自网络，收集整理只为学习交流，未经版权方同意不得商用，私自商用而引发的问题本人概不负责，谢谢理解！
 ### source
 https://github.com/msolihinam/tv/tree/main/logo
 
