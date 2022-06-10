@@ -13,7 +13,9 @@ https://github.com/atsushi444/iptv/tree/main/logo
 
 https://github.com/JKAIR001/jkair.github.io/tree/main/IPTV/logo
 
+### CHINA
+#### cctv()
 |Icon|Channel|Site|
 |:----|:---:|:---:|
-|<img src="https://iptv-pro.github.io/logo/3D%E9%9B%BB%E5%BD%B1.png" width="100" height="50">|3D電影|https://iptv-pro.github.io/logo/3D%E9%9B%BB%E5%BD%B1.png|
+|<img src="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" width="100" height="50">|CCTV1|http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png|
 |<img src="https://iptv-pro.github.io/logo/4K.png" width="100" height="50">|4K|https://iptv-pro.github.io/logo/4K.png|
