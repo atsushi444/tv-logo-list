@@ -35,10 +35,10 @@ https://github.com/wanglindl/TVlogo/tree/main/img
 【[辽宁](./md/37.md)】【[吉林](./md/38.md)】【[黑龙江](./md/39.md)】
 
 ### TAIWAN
-【[台湾](./md/40.md)】
+【[台湾地区](./md/40.md)】
 
 ### HONGKONG&
-【[港澳](./md/41.md)】
+【[港澳地区](./md/41.md)】
 
 ### JAPAN
 
