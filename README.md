@@ -47,4 +47,4 @@ https://github.com/wanglindl/TVlogo/tree/main/img
 【[韩国](./md/43.md)】
 
 ### XXX
-【[18+](./md/18+.md)】【[Adult](./md/adult.md)】
+【[18+](./md/18+.md)】【[Adult](./md/adult.md)】【[NSFW](./md/nsfw.md)】
