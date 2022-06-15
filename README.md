@@ -44,7 +44,7 @@ https://github.com/wanglindl/TVlogo/tree/main/img
 【[日本](./md/43.md)】
 
 ### KOREAN
-【[韩国](./md/43.md)】
+【[韩国](./md/44.md)】
 
 ### XXX
 【[18+](./md/18+.md)】【[Adult](./md/adult.md)】【[NSFW](./md/nsfw.md)】
