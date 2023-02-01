@@ -15,6 +15,8 @@ https://github.com/JKAIR001/jkair.github.io/tree/main/IPTV/logo
 
 https://github.com/wanglindl/TVlogo/tree/main/img
 
+https://upload.112114.xyz/logo/
+
 ### CHINA
 【[CCTV](./md/01.md)】【[全国卫视](./md/02.md)】【[CGTN=中国教育台=新华社](./md/03.md)】【[数字频道](./md/04.md)】
 
